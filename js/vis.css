@@ -712,17 +712,17 @@ div.vis-network div.vis-navigation div.vis-button.vis-right {
 div.vis-network div.vis-navigation div.vis-button.vis-zoomIn {
     background-image: url("../img/plus.png");
     top:55px;											/* 10px, 460px */
-    right:15px;											/* 15px */
+    right:15px;										/* 15px */
 }
 div.vis-network div.vis-navigation div.vis-button.vis-zoomOut {
     background-image: url("../img/minus.png");
     top:95px;											/* 10px, 460px */
-    right:15px;											/* 55px */
+    right:15px;										/* 55px */
 }
 div.vis-network div.vis-navigation div.vis-button.vis-zoomExtends {
     background-image: url("../img/zoomExtends.png");
     top:15px;											/* 50px, 500px */
-    right:15px;											/* 15px */
+    right:15px;										/* 15px */
 }
 
 .vis-timeline {
